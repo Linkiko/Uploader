@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/server.dir/main.cpp.o  -o server /home/marwan/.hunter/_Base/683bdd1/1600aa8/9498539/Install/lib/libboost_system-mt-d.a /home/marwan/.hunter/_Base/683bdd1/1600aa8/9498539/Install/lib/libboost_filesystem-mt-d.a /home/marwan/.hunter/_Base/683bdd1/1600aa8/9498539/Install/lib/libboost_program_options-mt-d.a 
